@@ -1,3 +1,6 @@
 [submodule "resources/milvus"]
 	path = resources/milvus
 	url = https://github.com/milvus-io/milvus.git
+[submodule "resources/jina"]
+	path = resources/jina
+	url = https://github.com/jina-ai/jina.git
